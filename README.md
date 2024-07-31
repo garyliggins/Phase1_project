@@ -6,6 +6,7 @@ Article Display: Each news article shows a title, description, and a link to the
 Simple and Clean UI: A focus on user-friendly design with a responsive layout ensures a smooth experience across different devices.
 Event Listeners: The app includes interactive features such as search by pressing Enter and clickable article links.
 API Integration: Utilizes a third-party news API to fetch real-time data.
+
 Technologies Used
 HTML: For structuring the app's content.
 CSS: For styling the app and ensuring a responsive design.
@@ -13,14 +14,14 @@ JavaScript: For handling user interactions, making API calls, and updating the U
 
 Getting Started
 Clone the Repository:
-git clone https://github.com/your-username/news-aggregator-app.git
+git clone https://github.com/garyliggins/Phase1_project.git
 cd newsAPIProject
 Set Up API Key:
 
 Sign up for an API key from NewsAPI.
 Replace 'YOUR_API_KEY' in app.js with your API key.
-Open the App:
 
+Open the App:
 Open index.html in a web browser to view the app.
 Usage
 Enter a search term in the input field and click the "Search" button or press Enter to fetch news articles.
